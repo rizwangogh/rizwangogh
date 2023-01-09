@@ -1,9 +1,3 @@
-
-**rizwangogh/rizwangogh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 # 💫 About Me:
 Learning MERN FullStack Web Development to turn ideas into reality
 
